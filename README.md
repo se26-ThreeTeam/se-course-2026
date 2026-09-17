@@ -1,4 +1,4 @@
-# se-course-2026
+# team-home
 소프트웨어공학 팀 프로젝트
 
 2022301073 정호영 hyjeong123 Project Manager  
